@@ -6,6 +6,7 @@
 1. Скачать файл "network.py"  и "mnist.pkl.gz" на локальный компьютер в одну папку.
 2. В этой папке запускаем Python3
 3. Дальше пример кода для Python:
+
     ```python
     import network
     net = network.Network([784,30,10])
